@@ -1,2 +1,2 @@
-# Oasis-Infobyte-Tasks
+# OIBSIP
 Responsive Landing Page
